@@ -1,2 +1,15 @@
-# SODVI-Sube-y-Baja
-Proyecto de videojuego para la Sociedad de Desarrollo de Videojuegos de la Facultad de Ingeniería de la UNAM.
+# SODVI: Sube y Baja
+### Facultad de Ingeniería - UNAM
+
+**Equipo:** 08
+
+
+**Integrantes:**
+- Cristian Guzman
+- Daniel Delgado
+- Dulce Mejía
+- Rafael Soto
+- Yunuen Martínez
+
+
+**Semestre:** 2027-1
